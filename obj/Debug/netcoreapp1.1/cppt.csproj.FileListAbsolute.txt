@@ -1,0 +1,8 @@
+/home/greg/cppt/bin/Debug/netcoreapp1.1/cppt.deps.json
+/home/greg/cppt/bin/Debug/netcoreapp1.1/cppt.runtimeconfig.json
+/home/greg/cppt/bin/Debug/netcoreapp1.1/cppt.runtimeconfig.dev.json
+/home/greg/cppt/bin/Debug/netcoreapp1.1/cppt.dll
+/home/greg/cppt/bin/Debug/netcoreapp1.1/cppt.pdb
+/home/greg/cppt/obj/Debug/netcoreapp1.1/cppt.AssemblyInfo.cs
+/home/greg/cppt/obj/Debug/netcoreapp1.1/cppt.dll
+/home/greg/cppt/obj/Debug/netcoreapp1.1/cppt.pdb
